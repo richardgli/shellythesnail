@@ -390,6 +390,545 @@ drawentity mountainslime 320 253
 #frame
 
 #LOBBY
+#frame
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
+#frame
+clear 45 60 92
+drawchar C 305 200 255 255 255
+drawchar r 310 200 255 255 255
+drawchar y 315 200 255 255 255
+drawchar s 320 200 255 255 255
+drawchar t 325 200 255 255 255
+drawchar a 330 200 255 255 255
+drawchar l 335 200 255 255 255
 #DUNGEON
 #SWAMP
 #DESERT
