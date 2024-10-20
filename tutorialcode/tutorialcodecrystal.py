@@ -75,3 +75,42 @@ for i in range(60):
     drawText(text1[4], 325, 200, 255, 255, 255)
     drawText(text1[5], 330, 200, 255, 255, 255)
     drawText(text1[6], 335, 200, 255, 255, 255)
+
+for i in range(60):
+    print("#frame")
+    if i != 0:
+        print("clear")
+    drawText(text2[0], 310, 200, 255, 255, 255)
+    drawText(text2[1], 315, 200, 255, 255, 255)
+    drawText(text2[2], 320, 200, 255, 255, 255)
+    drawText(text2[3], 325, 200, 255, 255, 255)
+    drawText(text2[4], 330, 200, 255, 255, 255)
+
+
+for i in range(60):
+    print("#frame")
+    if i != 0:
+        print("clear")
+    drawText(text3[0], 305, 200, 255, 255, 255)
+    drawText(text3[1], 310, 200, 255, 255, 255)
+    drawText(text3[2], 315, 200, 255, 255, 255)
+    drawText(text3[3], 320, 200, 255, 255, 255)
+    drawText(text3[4], 325, 200, 255, 255, 255)
+    drawText(text3[5], 330, 200, 255, 255, 255)
+    drawText(text3[6], 335, 200, 255, 255, 255)
+
+
+for i in range(60):
+    print("#frame")
+    if i != 0:
+        print("clear")
+    drawText(text4[0], 315, 200, 255, 255, 255)
+    drawText(text4[1], 320, 200, 255, 255, 255)
+    drawText(text4[2], 325, 200, 255, 255, 255)
+
+
+for i in range(50):
+    print("#frame")
+    if i != 0:
+        print("clear")
+    drawPlayer(0)
