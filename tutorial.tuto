@@ -388,7 +388,6 @@ drawentity mountainslime 320 253
 #frame
 #frame
 #frame
-
 #LOBBY
 #frame
 drawchar C 305 200 255 255 255
