@@ -1,4 +1,4 @@
-# Shelly the Snail's Great Adventure
+# Shelly the Snail's Great Adventure Tutorial
 *Made for Alchemy Hacks 2024*
 
 This repository contains a python file tutorialcode.py that facilitates the development of the tutorial. 
