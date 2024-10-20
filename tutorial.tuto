@@ -1,0 +1,400 @@
+#HEADER
+pausebeforereturn 60
+buy entities
+buy comprehensive
+buy items
+#FRAMES
+#INITIAL
+#frame
+drawchar A 100 100 255 255 255
+drawrect 270 -116 430 -106 255 0 0
+drawentity player1 320 -96
+drawrect 250 384 410 394 0 255 0
+drawentity mountainslime 320 400
+#frame
+clear
+drawchar A 100 100 255 255 255
+drawrect 270 -114 430 -104 255 0 0
+drawentity player1 320 -94
+drawrect 250 381 410 391 0 255 0
+drawentity mountainslime 320 397
+#frame
+clear
+drawchar A 100 100 255 255 255
+drawrect 270 -112 430 -102 255 0 0
+drawentity player1 320 -92
+drawrect 250 378 410 388 0 255 0
+drawentity mountainslime 320 394
+#frame
+clear
+drawchar A 100 100 255 255 255
+drawrect 270 -110 430 -100 255 0 0
+drawentity player1 320 -90
+drawrect 250 375 410 385 0 255 0
+drawentity mountainslime 320 391
+#frame
+clear
+drawchar A 100 100 255 255 255
+drawrect 270 -108 430 -98 255 0 0
+drawentity player1 320 -88
+drawrect 250 372 410 382 0 255 0
+drawentity mountainslime 320 388
+#frame
+clear
+drawchar t 105 100 255 255 255
+drawrect 270 -106 430 -96 255 0 0
+drawentity player1 320 -86
+drawrect 250 369 410 379 0 255 0
+drawentity mountainslime 320 385
+#frame
+clear
+drawchar t 105 100 255 255 255
+drawrect 270 -104 430 -94 255 0 0
+drawentity player1 320 -84
+drawrect 250 366 410 376 0 255 0
+drawentity mountainslime 320 382
+#frame
+clear
+drawchar t 105 100 255 255 255
+drawrect 270 -102 430 -92 255 0 0
+drawentity player1 320 -82
+drawrect 250 363 410 373 0 255 0
+drawentity mountainslime 320 379
+#frame
+clear
+drawchar t 105 100 255 255 255
+drawrect 270 -100 430 -90 255 0 0
+drawentity player1 320 -80
+drawrect 250 360 410 370 0 255 0
+drawentity mountainslime 320 376
+#frame
+clear
+drawchar t 105 100 255 255 255
+drawrect 270 -98 430 -88 255 0 0
+drawentity player1 320 -78
+drawrect 250 357 410 367 0 255 0
+drawentity mountainslime 320 373
+#frame
+clear
+drawchar t 110 100 255 255 255
+drawrect 270 -96 430 -86 255 0 0
+drawentity player1 320 -76
+drawrect 250 354 410 364 0 255 0
+drawentity mountainslime 320 370
+#frame
+clear
+drawchar t 110 100 255 255 255
+drawrect 270 -94 430 -84 255 0 0
+drawentity player1 320 -74
+drawrect 250 351 410 361 0 255 0
+drawentity mountainslime 320 367
+#frame
+clear
+drawchar t 110 100 255 255 255
+drawrect 270 -92 430 -82 255 0 0
+drawentity player1 320 -72
+drawrect 250 348 410 358 0 255 0
+drawentity mountainslime 320 364
+#frame
+clear
+drawchar t 110 100 255 255 255
+drawrect 270 -90 430 -80 255 0 0
+drawentity player1 320 -70
+drawrect 250 345 410 355 0 255 0
+drawentity mountainslime 320 361
+#frame
+clear
+drawchar t 110 100 255 255 255
+drawrect 270 -88 430 -78 255 0 0
+drawentity player1 320 -68
+drawrect 250 342 410 352 0 255 0
+drawentity mountainslime 320 358
+#frame
+clear
+drawchar a 115 100 255 255 255
+drawrect 270 -86 430 -76 255 0 0
+drawentity player1 320 -66
+drawrect 250 339 410 349 0 255 0
+drawentity mountainslime 320 355
+#frame
+clear
+drawchar a 115 100 255 255 255
+drawrect 270 -84 430 -74 255 0 0
+drawentity player1 320 -64
+drawrect 250 336 410 346 0 255 0
+drawentity mountainslime 320 352
+#frame
+clear
+drawchar a 115 100 255 255 255
+drawrect 270 -82 430 -72 255 0 0
+drawentity player1 320 -62
+drawrect 250 333 410 343 0 255 0
+drawentity mountainslime 320 349
+#frame
+clear
+drawchar a 115 100 255 255 255
+drawrect 270 -80 430 -70 255 0 0
+drawentity player1 320 -60
+drawrect 250 330 410 340 0 255 0
+drawentity mountainslime 320 346
+#frame
+clear
+drawchar a 115 100 255 255 255
+drawrect 270 -78 430 -68 255 0 0
+drawentity player1 320 -58
+drawrect 250 327 410 337 0 255 0
+drawentity mountainslime 320 343
+#frame
+clear
+drawchar c 120 100 255 255 255
+drawrect 270 -76 430 -66 255 0 0
+drawentity player1 320 -56
+drawrect 250 324 410 334 0 255 0
+drawentity mountainslime 320 340
+#frame
+clear
+drawchar c 120 100 255 255 255
+drawrect 270 -74 430 -64 255 0 0
+drawentity player1 320 -54
+drawrect 250 321 410 331 0 255 0
+drawentity mountainslime 320 337
+#frame
+clear
+drawchar c 120 100 255 255 255
+drawrect 270 -72 430 -62 255 0 0
+drawentity player1 320 -52
+drawrect 250 318 410 328 0 255 0
+drawentity mountainslime 320 334
+#frame
+clear
+drawchar c 120 100 255 255 255
+drawrect 270 -70 430 -60 255 0 0
+drawentity player1 320 -50
+drawrect 250 315 410 325 0 255 0
+drawentity mountainslime 320 331
+#frame
+clear
+drawchar c 120 100 255 255 255
+drawrect 270 -68 430 -58 255 0 0
+drawentity player1 320 -48
+drawrect 250 312 410 322 0 255 0
+drawentity mountainslime 320 328
+#frame
+clear
+drawchar k 125 100 255 255 255
+drawrect 270 -66 430 -56 255 0 0
+drawentity player1 320 -46
+drawrect 250 309 410 319 0 255 0
+drawentity mountainslime 320 325
+#frame
+clear
+drawchar k 125 100 255 255 255
+drawrect 270 -64 430 -54 255 0 0
+drawentity player1 320 -44
+drawrect 250 306 410 316 0 255 0
+drawentity mountainslime 320 322
+#frame
+clear
+drawchar k 125 100 255 255 255
+drawrect 270 -62 430 -52 255 0 0
+drawentity player1 320 -42
+drawrect 250 303 410 313 0 255 0
+drawentity mountainslime 320 319
+#frame
+clear
+drawchar k 125 100 255 255 255
+drawrect 270 -60 430 -50 255 0 0
+drawentity player1 320 -40
+drawrect 250 300 410 310 0 255 0
+drawentity mountainslime 320 316
+#frame
+clear
+drawchar k 125 100 255 255 255
+drawrect 270 -58 430 -48 255 0 0
+drawentity player1 320 -38
+drawrect 250 297 410 307 0 255 0
+drawentity mountainslime 320 313
+#frame
+clear
+drawrect 270 -56 430 -46 255 0 0
+drawentity player1 320 -36
+drawrect 250 294 410 304 0 255 0
+drawentity mountainslime 320 310
+#frame
+clear
+drawrect 270 -54 430 -44 255 0 0
+drawentity player1 320 -34
+drawrect 250 291 410 301 0 255 0
+drawentity mountainslime 320 307
+#frame
+clear
+drawrect 270 -52 430 -42 255 0 0
+drawentity player1 320 -32
+drawrect 250 288 410 298 0 255 0
+drawentity mountainslime 320 304
+#frame
+clear
+drawrect 270 -50 430 -40 255 0 0
+drawentity player1 320 -30
+drawrect 250 285 410 295 0 255 0
+drawentity mountainslime 320 301
+#frame
+clear
+drawrect 270 -48 430 -38 255 0 0
+drawentity player1 320 -28
+drawrect 250 282 410 292 0 255 0
+drawentity mountainslime 320 298
+#frame
+clear
+drawrect 270 -46 430 -36 255 0 0
+drawentity player1 320 -26
+drawrect 250 279 410 289 0 255 0
+drawentity mountainslime 320 295
+#frame
+clear
+drawrect 270 -44 430 -34 255 0 0
+drawentity player1 320 -24
+drawrect 250 276 410 286 0 255 0
+drawentity mountainslime 320 292
+#frame
+clear
+drawrect 270 -42 430 -32 255 0 0
+drawentity player1 320 -22
+drawrect 250 273 410 283 0 255 0
+drawentity mountainslime 320 289
+#frame
+clear
+drawrect 270 -40 430 -30 255 0 0
+drawentity player1 320 -20
+drawrect 250 270 410 280 0 255 0
+drawentity mountainslime 320 286
+#frame
+clear
+drawrect 270 -38 430 -28 255 0 0
+drawentity player1 320 -18
+drawrect 250 267 410 277 0 255 0
+drawentity mountainslime 320 283
+#frame
+clear
+drawrect 270 -36 430 -26 255 0 0
+drawentity player1 320 -16
+drawrect 250 264 410 274 0 255 0
+drawentity mountainslime 320 280
+#frame
+clear
+drawrect 270 -34 430 -24 255 0 0
+drawentity player1 320 -14
+drawrect 250 261 410 271 0 255 0
+drawentity mountainslime 320 277
+#frame
+clear
+drawrect 270 -32 430 -22 255 0 0
+drawentity player1 320 -12
+drawrect 250 258 410 268 0 255 0
+drawentity mountainslime 320 274
+#frame
+clear
+drawrect 270 -30 430 -20 255 0 0
+drawentity player1 320 -10
+drawrect 250 255 410 265 0 255 0
+drawentity mountainslime 320 271
+#frame
+clear
+drawrect 270 -28 430 -18 255 0 0
+drawentity player1 320 -8
+drawrect 250 252 410 262 0 255 0
+drawentity mountainslime 320 268
+#frame
+clear
+drawrect 270 -26 430 -16 255 0 0
+drawentity player1 320 -6
+drawrect 250 249 410 259 0 255 0
+drawentity mountainslime 320 265
+#frame
+clear
+drawrect 270 -24 430 -14 255 0 0
+drawentity player1 320 -4
+drawrect 250 246 410 256 0 255 0
+drawentity mountainslime 320 262
+#frame
+clear
+drawrect 270 -22 430 -12 255 0 0
+drawentity player1 320 -2
+drawrect 250 243 410 253 0 255 0
+drawentity mountainslime 320 259
+#frame
+clear
+drawrect 270 -20 430 -10 255 0 0
+drawentity player1 320 0
+drawrect 250 240 410 250 0 255 0
+drawentity mountainslime 320 256
+#frame
+clear
+drawrect 270 -18 430 -8 255 0 0
+drawentity player1 320 2
+drawrect 250 237 410 247 0 255 0
+drawentity mountainslime 320 253
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+
+#LOBBY
+#DUNGEON
+#SWAMP
+#DESERT
+#MOUNTAINS
+#ARCTIC
+#DARKNESS
+#VOID
+#FINAL
