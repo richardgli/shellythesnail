@@ -2891,266 +2891,266 @@ drawchar t 330 200 255 255 255
 #frame
 #frame
 #frame
-#frame                                                                        
+#frame
 clear 156 76 9
 drawitem small golf_club 0 0
 #frame
 clear 156 76 9
-drawitem small golf_club 10 15
+drawitem small golf_club 30 15
 #frame
 clear 156 76 9
-drawitem small golf_club 20 30
+drawitem small golf_club 60 30
 #frame
 clear 156 76 9
-drawitem small golf_club 30 45
+drawitem small golf_club 90 45
 #frame
 clear 156 76 9
-drawitem small golf_club 40 60
+drawitem small golf_club 120 60
 #frame
 clear 156 76 9
-drawitem small golf_club 50 75
+drawitem small golf_club 150 75
 #frame
 clear 156 76 9
-drawitem small golf_club 60 90
+drawitem small golf_club 180 90
 #frame
 clear 156 76 9
-drawitem small golf_club 70 105
+drawitem small golf_club 210 105
 #frame
 clear 156 76 9
-drawitem small golf_club 80 120
+drawitem small golf_club 240 120
 #frame
 clear 156 76 9
-drawitem small golf_club 90 135
+drawitem small golf_club 270 135
 #frame
 clear 156 76 9
-drawitem small golf_club 100 150
+drawitem small golf_club 300 150
 #frame
 clear 156 76 9
-drawitem small golf_club 110 165
+drawitem small golf_club 330 165
 #frame
 clear 156 76 9
-drawitem small golf_club 120 180
+drawitem small golf_club 360 180
 #frame
 clear 156 76 9
-drawitem small golf_club 130 195
+drawitem small golf_club 390 195
 #frame
 clear 156 76 9
-drawitem small golf_club 140 210
+drawitem small golf_club 420 210
 #frame
 clear 156 76 9
-drawitem small golf_club 150 225
+drawitem small golf_club 450 225
 #frame
 clear 156 76 9
-drawitem small golf_club 160 240
+drawitem small golf_club 480 240
 #frame
 clear 156 76 9
-drawitem small golf_club 170 255
+drawitem small golf_club 510 255
 #frame
 clear 156 76 9
-drawitem small golf_club 180 270
+drawitem small golf_club 540 270
 #frame
 clear 156 76 9
-drawitem small golf_club 190 285
+drawitem small golf_club 570 285
 #frame
 clear 156 76 9
-drawitem small golf_club 200 300
+drawitem small golf_club 600 300
 #frame
 clear 156 76 9
-drawitem small golf_club 210 315
+drawitem small golf_club 630 315
 #frame
 clear 156 76 9
-drawitem small golf_club 220 330
+drawitem small golf_club 660 330
 #frame
 clear 156 76 9
-drawitem small golf_club 230 345
+drawitem small golf_club 690 345
 #frame
 clear 156 76 9
-drawitem small golf_club 240 360
+drawitem small golf_club 720 360
 #frame
 clear 156 76 9
-drawitem small golf_club 250 375
+drawitem small golf_club 750 375
 #frame
 clear 156 76 9
-drawitem small golf_club 260 390
+drawitem small golf_club 780 390
 #frame
 clear 156 76 9
-drawitem small golf_club 270 405
+drawitem small golf_club 810 405
 #frame
 clear 156 76 9
-drawitem small golf_club 280 420
+drawitem small golf_club 840 420
 #frame
 clear 156 76 9
-drawitem small golf_club 290 435
-#frame
-clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
-#frame
+drawitem small golf_club 870 435
 #frame
 clear 156 76 9
 drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawitem small golf_club 400 118
+drawitem small apple 320 200
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
 #frame
 clear 156 76 9
 drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawitem small golf_club 400 118
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 120
+drawitem small golf_club 400 120
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 122
+drawitem small golf_club 400 122
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 124
+drawitem small golf_club 400 124
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 126
+drawitem small golf_club 400 126
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 128
+drawitem small golf_club 400 128
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 130
+drawitem small golf_club 400 130
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 132
+drawitem small golf_club 400 132
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 134
+drawitem small golf_club 400 134
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 136
+drawitem small golf_club 400 136
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 138
+drawitem small golf_club 400 138
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 140
+drawitem small golf_club 400 140
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 142
+drawitem small golf_club 400 142
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 144
+drawitem small golf_club 400 144
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 146
+drawitem small golf_club 400 146
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 148
+drawitem small golf_club 400 148
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 150
+drawitem small golf_club 400 150
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 152
+drawitem small golf_club 400 152
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 154
+drawitem small golf_club 400 154
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 156
+drawitem small golf_club 400 156
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 158
+drawitem small golf_club 400 158
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 160
+drawitem small golf_club 400 160
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 162
+drawitem small golf_club 400 162
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
-drawentity apple 320 200
+drawentity player1 320 164
+drawitem small golf_club 400 164
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
+drawentity player1 320 166
+drawitem small golf_club 400 166
+drawitem small apple 320 200
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
+drawentity player1 320 168
+drawitem small golf_club 400 168
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
+drawentity player1 320 170
+drawitem small golf_club 400 170
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
+drawentity player1 320 172
+drawitem small golf_club 400 172
 #frame
 clear 156 76 9
-drawentity player1 320 118
-drawitem small golf_club 330 118
+drawentity player1 320 174
+drawitem small golf_club 400 174
+#frame
+clear 156 76 9
+drawentity player1 320 176
+drawitem small golf_club 400 176
 #frame
 drawchar P 300 200 255 255 255
 #frame
@@ -3218,7 +3218,7 @@ drawchar d 350 200 255 255 255
 #frame
 #frame
 #frame
-drawchar   360 200 255 255 255
+drawchar u 375 200 255 255 255
 #frame
 #frame
 #frame
@@ -3229,7 +3229,7 @@ drawchar   360 200 255 255 255
 #frame
 #frame
 #frame
-drawchar u 370 200 255 255 255
+drawchar p 385 200 255 255 255
 #frame
 #frame
 #frame
@@ -3239,6 +3239,5543 @@ drawchar u 370 200 255 255 255
 #frame
 #frame
 #frame
+#frame
+clear 156 76 9
+drawentity player1 320 178
+drawitem small golf_club 400 178
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 180
+drawitem small golf_club 400 180
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 182
+drawitem small golf_club 400 182
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 184
+drawitem small golf_club 400 184
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 186
+drawitem small golf_club 400 186
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 188
+drawitem small golf_club 400 188
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 190
+drawitem small golf_club 400 190
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 192
+drawitem small golf_club 400 192
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 194
+drawitem small golf_club 400 194
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 196
+drawitem small golf_club 400 196
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 198
+drawitem small golf_club 400 198
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 200
+drawitem small golf_club 400 200
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 202
+drawitem small golf_club 400 202
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 204
+drawitem small golf_club 400 204
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 206
+drawitem small golf_club 400 206
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 208
+drawitem small golf_club 400 208
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 210
+drawitem small golf_club 400 210
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 212
+drawitem small golf_club 400 212
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 214
+drawitem small golf_club 400 214
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 216
+drawitem small golf_club 400 216
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 218
+drawitem small golf_club 400 218
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 220
+drawitem small golf_club 400 220
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small golf_club 400 222
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 224
+drawitem small golf_club 400 224
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 226
+drawitem small golf_club 400 226
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 228
+drawitem small golf_club 400 228
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 230
+drawitem small golf_club 400 230
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 232
+drawitem small golf_club 400 232
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 234
+drawitem small golf_club 400 234
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 236
+drawitem small golf_club 400 236
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 238
+drawitem small golf_club 400 238
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 240
+drawitem small golf_club 400 240
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 242
+drawitem small golf_club 400 242
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 244
+drawitem small golf_club 400 244
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 246
+drawitem small golf_club 400 246
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 248
+drawitem small golf_club 400 248
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 250
+drawitem small golf_club 400 250
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 252
+drawitem small golf_club 400 252
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 254
+drawitem small golf_club 400 254
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 256
+drawitem small golf_club 400 256
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 258
+drawitem small golf_club 400 258
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 260
+drawitem small golf_club 400 260
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 262
+drawitem small golf_club 400 262
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 264
+drawitem small golf_club 400 264
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 266
+drawitem small golf_club 400 266
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 268
+drawitem small golf_club 400 268
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 270
+drawitem small golf_club 400 270
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 272
+drawitem small golf_club 400 272
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 274
+drawitem small golf_club 400 274
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 276
+drawitem small golf_club 400 276
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 278
+drawitem small golf_club 400 278
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 280
+drawitem small golf_club 400 280
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 282
+drawitem small golf_club 400 282
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 284
+drawitem small golf_club 400 284
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 286
+drawitem small golf_club 400 286
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 288
+drawitem small golf_club 400 288
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 290
+drawitem small golf_club 400 290
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 292
+drawitem small golf_club 400 292
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 294
+drawitem small golf_club 400 294
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 296
+drawitem small golf_club 400 296
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 298
+drawitem small golf_club 400 298
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 300
+drawitem small golf_club 400 300
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 302
+drawitem small golf_club 400 302
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 304
+drawitem small golf_club 400 304
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 306
+drawitem small golf_club 400 306
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 308
+drawitem small golf_club 400 308
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 310
+drawitem small golf_club 400 310
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 312
+drawitem small golf_club 400 312
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 314
+drawitem small golf_club 400 314
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 316
+drawitem small golf_club 400 316
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 318
+drawitem small golf_club 400 318
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 320
+drawitem small golf_club 400 320
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 322
+drawitem small golf_club 400 322
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 324
+drawitem small golf_club 400 324
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 326
+drawitem small golf_club 400 326
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 328
+drawitem small golf_club 400 328
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 330
+drawitem small golf_club 400 330
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 332
+drawitem small golf_club 400 332
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 334
+drawitem small golf_club 400 334
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 336
+drawitem small golf_club 400 336
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 338
+drawitem small golf_club 400 338
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 340
+drawitem small golf_club 400 340
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 342
+drawitem small golf_club 400 342
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 344
+drawitem small golf_club 400 344
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 346
+drawitem small golf_club 400 346
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 348
+drawitem small golf_club 400 348
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 350
+drawitem small golf_club 400 350
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 352
+drawitem small golf_club 400 352
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 354
+drawitem small golf_club 400 354
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 356
+drawitem small golf_club 400 356
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 358
+drawitem small golf_club 400 358
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 360
+drawitem small golf_club 400 360
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 362
+drawitem small golf_club 400 362
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 364
+drawitem small golf_club 400 364
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 366
+drawitem small golf_club 400 366
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 368
+drawitem small golf_club 400 368
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 370
+drawitem small golf_club 400 370
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 372
+drawitem small golf_club 400 372
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 374
+drawitem small golf_club 400 374
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 376
+drawitem small golf_club 400 376
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 378
+drawitem small golf_club 400 378
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 380
+drawitem small golf_club 400 380
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 382
+drawitem small golf_club 400 382
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 384
+drawitem small golf_club 400 384
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 386
+drawitem small golf_club 400 386
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 388
+drawitem small golf_club 400 388
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 390
+drawitem small golf_club 400 390
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 392
+drawitem small golf_club 400 392
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 394
+drawitem small golf_club 400 394
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 396
+drawitem small golf_club 400 396
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 398
+drawitem small golf_club 400 398
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 400
+drawitem small golf_club 400 400
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 402
+drawitem small golf_club 400 402
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 404
+drawitem small golf_club 400 404
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 406
+drawitem small golf_club 400 406
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 408
+drawitem small golf_club 400 408
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 410
+drawitem small golf_club 400 410
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 412
+drawitem small golf_club 400 412
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 414
+drawitem small golf_club 400 414
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 416
+drawitem small golf_club 400 416
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 418
+drawitem small golf_club 400 418
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 420
+drawitem small golf_club 400 420
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 422
+drawitem small golf_club 400 422
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 424
+drawitem small golf_club 400 424
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 426
+drawitem small golf_club 400 426
+drawchar S 500 200 255 255 255
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 400
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 400
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 398
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 396
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 394
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 392
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 390
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 388
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 386
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 384
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 382
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 380
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 378
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 376
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 374
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 372
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 370
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 368
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 366
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 364
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 362
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 360
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 358
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 356
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 354
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 352
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 350
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 348
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 346
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 344
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 342
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 340
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 338
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 336
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 334
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 332
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 330
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 328
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 326
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 324
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 322
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 320
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 318
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 316
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 314
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 312
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 310
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 308
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 306
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 304
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 302
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 300
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 298
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 296
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 294
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 292
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 290
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 288
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 286
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 284
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 282
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 280
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 278
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 276
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 274
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 272
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 270
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 268
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 266
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 264
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 262
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 260
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 258
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 256
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 254
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 252
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 250
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 248
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 246
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 244
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 242
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 240
+#frame
+clear 156 76 9
+drawentity player1 320 -2
+drawitem small golf_club 400 -2
+drawentity mountainslime 320 238
+#frame
+clear 156 76 9
+drawentity player1 320 -4
+drawitem small golf_club 400 -4
+drawentity mountainslime 320 236
+#frame
+clear 156 76 9
+drawentity player1 320 -6
+drawitem small golf_club 400 -6
+drawentity mountainslime 320 234
+#frame
+clear 156 76 9
+drawentity player1 320 -8
+drawitem small golf_club 400 -8
+drawentity mountainslime 320 232
+#frame
+clear 156 76 9
+drawentity player1 320 -10
+drawitem small golf_club 400 -10
+drawentity mountainslime 320 230
+#frame
+clear 156 76 9
+drawentity player1 320 -12
+drawitem small golf_club 400 -12
+drawentity mountainslime 320 228
+#frame
+clear 156 76 9
+drawentity player1 320 -14
+drawitem small golf_club 400 -14
+drawentity mountainslime 320 226
+#frame
+clear 156 76 9
+drawentity player1 320 -16
+drawitem small golf_club 400 -16
+drawentity mountainslime 320 224
+#frame
+clear 156 76 9
+drawentity player1 320 -18
+drawitem small golf_club 400 -18
+drawentity mountainslime 320 222
+#frame
+clear 156 76 9
+drawentity player1 320 -20
+drawitem small golf_club 400 -20
+drawentity mountainslime 320 220
+#frame
+clear 156 76 9
+drawentity player1 320 -22
+drawitem small golf_club 400 -22
+drawentity mountainslime 320 218
+#frame
+clear 156 76 9
+drawentity player1 320 -24
+drawitem small golf_club 400 -24
+drawentity mountainslime 320 216
+#frame
+clear 156 76 9
+drawentity player1 320 -26
+drawitem small golf_club 400 -26
+drawentity mountainslime 320 214
+#frame
+clear 156 76 9
+drawentity player1 320 -28
+drawitem small golf_club 400 -28
+drawentity mountainslime 320 212
+#frame
+clear 156 76 9
+drawentity player1 320 -30
+drawitem small golf_club 400 -30
+drawentity mountainslime 320 210
+#frame
+clear 156 76 9
+drawentity player1 320 -32
+drawitem small golf_club 400 -32
+drawentity mountainslime 320 208
+#frame
+clear 156 76 9
+drawentity player1 320 -34
+drawitem small golf_club 400 -34
+drawentity mountainslime 320 206
+#frame
+clear 156 76 9
+drawentity player1 320 -36
+drawitem small golf_club 400 -36
+drawentity mountainslime 320 204
+#frame
+clear 156 76 9
+drawentity player1 320 -38
+drawitem small golf_club 400 -38
+drawentity mountainslime 320 202
+#frame
+clear 156 76 9
+drawentity player1 320 400
+drawitem small golf_club 400 400
+drawentity mountainslime 320 600
+#frame
+clear 156 76 9
+drawentity player1 320 395
+drawitem small golf_club 400 395
+drawentity mountainslime 320 596
+#frame
+clear 156 76 9
+drawentity player1 320 390
+drawitem small golf_club 400 390
+drawentity mountainslime 320 592
+#frame
+clear 156 76 9
+drawentity player1 320 385
+drawitem small golf_club 400 385
+drawentity mountainslime 320 588
+#frame
+clear 156 76 9
+drawentity player1 320 380
+drawitem small golf_club 400 380
+drawentity mountainslime 320 584
+#frame
+clear 156 76 9
+drawentity player1 320 375
+drawitem small golf_club 400 375
+drawentity mountainslime 320 580
+#frame
+clear 156 76 9
+drawentity player1 320 370
+drawitem small golf_club 400 370
+drawentity mountainslime 320 576
+#frame
+clear 156 76 9
+drawentity player1 320 365
+drawitem small golf_club 400 365
+drawentity mountainslime 320 572
+#frame
+clear 156 76 9
+drawentity player1 320 360
+drawitem small golf_club 400 360
+drawentity mountainslime 320 568
+#frame
+clear 156 76 9
+drawentity player1 320 355
+drawitem small golf_club 400 355
+drawentity mountainslime 320 564
+#frame
+clear 156 76 9
+drawentity player1 320 350
+drawitem small golf_club 400 350
+drawentity mountainslime 320 560
+#frame
+clear 156 76 9
+drawentity player1 320 345
+drawitem small golf_club 400 345
+drawentity mountainslime 320 556
+#frame
+clear 156 76 9
+drawentity player1 320 340
+drawitem small golf_club 400 340
+drawentity mountainslime 320 552
+#frame
+clear 156 76 9
+drawentity player1 320 335
+drawitem small golf_club 400 335
+drawentity mountainslime 320 548
+#frame
+clear 156 76 9
+drawentity player1 320 330
+drawitem small golf_club 400 330
+drawentity mountainslime 320 544
+#frame
+clear 156 76 9
+drawentity player1 320 325
+drawitem small golf_club 400 325
+drawentity mountainslime 320 540
+#frame
+clear 156 76 9
+drawentity player1 320 320
+drawitem small golf_club 400 320
+drawentity mountainslime 320 536
+#frame
+clear 156 76 9
+drawentity player1 320 315
+drawitem small golf_club 400 315
+drawentity mountainslime 320 532
+#frame
+clear 156 76 9
+drawentity player1 320 310
+drawitem small golf_club 400 310
+drawentity mountainslime 320 528
+#frame
+clear 156 76 9
+drawentity player1 320 305
+drawitem small golf_club 400 305
+drawentity mountainslime 320 524
+#frame
+clear 156 76 9
+drawentity player1 320 300
+drawitem small golf_club 400 300
+drawentity mountainslime 320 520
+#frame
+clear 156 76 9
+drawentity player1 320 295
+drawitem small golf_club 400 295
+drawentity mountainslime 320 516
+#frame
+clear 156 76 9
+drawentity player1 320 290
+drawitem small golf_club 400 290
+drawentity mountainslime 320 512
+#frame
+clear 156 76 9
+drawentity player1 320 285
+drawitem small golf_club 400 285
+drawentity mountainslime 320 508
+#frame
+clear 156 76 9
+drawentity player1 320 280
+drawitem small golf_club 400 280
+drawentity mountainslime 320 504
+#frame
+clear 156 76 9
+drawentity player1 320 275
+drawitem small golf_club 400 275
+drawentity mountainslime 320 500
+#frame
+clear 156 76 9
+drawentity player1 320 270
+drawitem small golf_club 400 270
+drawentity mountainslime 320 496
+#frame
+clear 156 76 9
+drawentity player1 320 265
+drawitem small golf_club 400 265
+drawentity mountainslime 320 492
+#frame
+clear 156 76 9
+drawentity player1 320 260
+drawitem small golf_club 400 260
+drawentity mountainslime 320 488
+#frame
+clear 156 76 9
+drawentity player1 320 255
+drawitem small golf_club 400 255
+drawentity mountainslime 320 484
+#frame
+clear 156 76 9
+drawentity player1 320 250
+drawitem small golf_club 400 250
+drawentity mountainslime 320 480
+#frame
+clear 156 76 9
+drawentity player1 320 245
+drawitem small golf_club 400 245
+drawentity mountainslime 320 476
+#frame
+clear 156 76 9
+drawentity player1 320 240
+drawitem small golf_club 400 240
+drawentity mountainslime 320 472
+#frame
+clear 156 76 9
+drawentity player1 320 235
+drawitem small golf_club 400 235
+drawentity mountainslime 320 468
+#frame
+clear 156 76 9
+drawentity player1 320 230
+drawitem small golf_club 400 230
+drawentity mountainslime 320 464
+#frame
+clear 156 76 9
+drawentity player1 320 225
+drawitem small golf_club 400 225
+drawentity mountainslime 320 460
+#frame
+clear 156 76 9
+drawentity player1 320 220
+drawitem small golf_club 400 220
+drawentity mountainslime 320 456
+#frame
+clear 156 76 9
+drawentity player1 320 215
+drawitem small golf_club 400 215
+drawentity mountainslime 320 452
+#frame
+clear 156 76 9
+drawentity player1 320 210
+drawitem small golf_club 400 210
+drawentity mountainslime 320 448
+#frame
+clear 156 76 9
+drawentity player1 320 205
+drawitem small golf_club 400 205
+drawentity mountainslime 320 444
+#frame
+clear 156 76 9
+drawentity player1 320 200
+drawitem small golf_club 400 200
+drawentity mountainslime 320 440
+#frame
+clear 156 76 9
+drawentity player1 320 195
+drawitem small golf_club 400 195
+drawentity mountainslime 320 436
+#frame
+clear 156 76 9
+drawentity player1 320 190
+drawitem small golf_club 400 190
+drawentity mountainslime 320 432
+#frame
+clear 156 76 9
+drawentity player1 320 185
+drawitem small golf_club 400 185
+drawentity mountainslime 320 428
+#frame
+clear 156 76 9
+drawentity player1 320 180
+drawitem small golf_club 400 180
+drawentity mountainslime 320 424
+#frame
+clear 156 76 9
+drawentity player1 320 175
+drawitem small golf_club 400 175
+drawentity mountainslime 320 420
+#frame
+clear 156 76 9
+drawentity player1 320 170
+drawitem small golf_club 400 170
+drawentity mountainslime 320 416
+#frame
+clear 156 76 9
+drawentity player1 320 165
+drawitem small golf_club 400 165
+drawentity mountainslime 320 412
+#frame
+clear 156 76 9
+drawentity player1 320 160
+drawitem small golf_club 400 160
+drawentity mountainslime 320 408
+#frame
+clear 156 76 9
+drawentity player1 320 155
+drawitem small golf_club 400 155
+drawentity mountainslime 320 404
+#frame
+clear 156 76 9
+drawentity player1 320 150
+drawitem small golf_club 400 150
+drawentity mountainslime 320 400
+#frame
+clear 156 76 9
+drawentity player1 320 145
+drawitem small golf_club 400 145
+drawentity mountainslime 320 396
+#frame
+clear 156 76 9
+drawentity player1 320 140
+drawitem small golf_club 400 140
+drawentity mountainslime 320 392
+#frame
+clear 156 76 9
+drawentity player1 320 135
+drawitem small golf_club 400 135
+drawentity mountainslime 320 388
+#frame
+clear 156 76 9
+drawentity player1 320 130
+drawitem small golf_club 400 130
+drawentity mountainslime 320 384
+#frame
+clear 156 76 9
+drawentity player1 320 125
+drawitem small golf_club 400 125
+drawentity mountainslime 320 380
+#frame
+clear 156 76 9
+drawentity player1 320 120
+drawitem small golf_club 400 120
+drawentity mountainslime 320 376
+#frame
+clear 156 76 9
+drawentity player1 320 115
+drawitem small golf_club 400 115
+drawentity mountainslime 320 372
+#frame
+clear 156 76 9
+drawentity player1 320 110
+drawitem small golf_club 400 110
+drawentity mountainslime 320 368
+#frame
+clear 156 76 9
+drawentity player1 320 105
+drawitem small golf_club 400 105
+drawentity mountainslime 320 364
+#frame
+clear 156 76 9
+drawentity player1 320 100
+drawitem small golf_club 400 100
+drawentity mountainslime 320 360
+#frame
+clear 156 76 9
+drawentity player1 320 95
+drawitem small golf_club 400 95
+drawentity mountainslime 320 356
+#frame
+clear 156 76 9
+drawentity player1 320 90
+drawitem small golf_club 400 90
+drawentity mountainslime 320 352
+#frame
+clear 156 76 9
+drawentity player1 320 85
+drawitem small golf_club 400 85
+drawentity mountainslime 320 348
+#frame
+clear 156 76 9
+drawentity player1 320 80
+drawitem small golf_club 400 80
+drawentity mountainslime 320 344
+#frame
+clear 156 76 9
+drawentity player1 320 75
+drawitem small golf_club 400 75
+drawentity mountainslime 320 340
+#frame
+clear 156 76 9
+drawentity player1 320 70
+drawitem small golf_club 400 70
+drawentity mountainslime 320 336
+#frame
+clear 156 76 9
+drawentity player1 320 65
+drawitem small golf_club 400 65
+drawentity mountainslime 320 332
+#frame
+clear 156 76 9
+drawentity player1 320 60
+drawitem small golf_club 400 60
+drawentity mountainslime 320 328
+#frame
+clear 156 76 9
+drawentity player1 320 55
+drawitem small golf_club 400 55
+drawentity mountainslime 320 324
+#frame
+clear 156 76 9
+drawentity player1 320 50
+drawitem small golf_club 400 50
+drawentity mountainslime 320 320
+#frame
+clear 156 76 9
+drawentity player1 320 45
+drawitem small golf_club 400 45
+drawentity mountainslime 320 316
+#frame
+clear 156 76 9
+drawentity player1 320 40
+drawitem small golf_club 400 40
+drawentity mountainslime 320 312
+#frame
+clear 156 76 9
+drawentity player1 320 35
+drawitem small golf_club 400 35
+drawentity mountainslime 320 308
+#frame
+clear 156 76 9
+drawentity player1 320 30
+drawitem small golf_club 400 30
+drawentity mountainslime 320 304
+#frame
+clear 156 76 9
+drawentity player1 320 25
+drawitem small golf_club 400 25
+drawentity mountainslime 320 300
+#frame
+clear 156 76 9
+drawentity player1 320 20
+drawitem small golf_club 400 20
+drawentity mountainslime 320 296
+#frame
+clear 156 76 9
+drawentity player1 320 15
+drawitem small golf_club 400 15
+drawentity mountainslime 320 292
+#frame
+clear 156 76 9
+drawentity player1 320 10
+drawitem small golf_club 400 10
+drawentity mountainslime 320 288
+#frame
+clear 156 76 9
+drawentity player1 320 5
+drawitem small golf_club 400 5
+drawentity mountainslime 320 284
+#frame
+clear 156 76 9
+drawentity player1 320 0
+drawitem small golf_club 400 0
+drawentity mountainslime 320 280
+#frame
+clear 156 76 9
+drawentity player1 320 -5
+drawitem small golf_club 400 -5
+drawentity mountainslime 320 276
+#frame
+clear 156 76 9
+drawentity player1 320 -10
+drawitem small golf_club 400 -10
+drawentity mountainslime 320 272
+#frame
+clear 156 76 9
+drawentity player1 320 -15
+drawitem small golf_club 400 -15
+drawentity mountainslime 320 268
+#frame
+clear 156 76 9
+drawentity player1 320 -20
+drawitem small golf_club 400 -20
+drawentity mountainslime 320 264
+#frame
+clear 156 76 9
+drawentity player1 320 -25
+drawitem small golf_club 400 -25
+drawentity mountainslime 320 260
+#frame
+clear 156 76 9
+drawentity player1 320 -30
+drawitem small golf_club 400 -30
+drawentity mountainslime 320 256
+#frame
+clear 156 76 9
+drawentity player1 320 -35
+drawitem small golf_club 400 -35
+drawentity mountainslime 320 252
+#frame
+clear 156 76 9
+drawentity player1 320 -40
+drawitem small golf_club 400 -40
+drawentity mountainslime 320 248
+#frame
+clear 156 76 9
+drawentity player1 320 -45
+drawitem small golf_club 400 -45
+drawentity mountainslime 320 244
+#frame
+clear 156 76 9
+drawentity player1 320 -50
+drawitem small golf_club 400 -50
+drawentity mountainslime 320 240
+#frame
+clear 156 76 9
+drawentity player1 320 -55
+drawitem small golf_club 400 -55
+drawentity mountainslime 320 236
+#frame
+clear 156 76 9
+drawentity player1 320 -60
+drawitem small golf_club 400 -60
+drawentity mountainslime 320 232
+#frame
+clear 156 76 9
+drawentity player1 320 -65
+drawitem small golf_club 400 -65
+drawentity mountainslime 320 228
+#frame
+clear 156 76 9
+drawentity player1 320 -70
+drawitem small golf_club 400 -70
+drawentity mountainslime 320 224
+#frame
+clear 156 76 9
+drawentity player1 320 -75
+drawitem small golf_club 400 -75
+drawentity mountainslime 320 220
+#frame
+clear 156 76 9
+drawentity player1 320 -80
+drawitem small golf_club 400 -80
+drawentity mountainslime 320 216
+#frame
+clear 156 76 9
+drawentity player1 320 -85
+drawitem small golf_club 400 -85
+drawentity mountainslime 320 212
+#frame
+clear 156 76 9
+drawentity player1 320 -90
+drawitem small golf_club 400 -90
+drawentity mountainslime 320 208
+#frame
+clear 156 76 9
+drawentity player1 320 -95
+drawitem small golf_club 400 -95
+drawentity mountainslime 320 204
+#frame
+clear 156 76 9
+drawentity player1 320 400
+drawitem small golf_club 400 400
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 398
+drawitem small golf_club 400 398
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 396
+drawitem small golf_club 400 396
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 394
+drawitem small golf_club 400 394
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 392
+drawitem small golf_club 400 392
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 390
+drawitem small golf_club 400 390
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 388
+drawitem small golf_club 400 388
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 386
+drawitem small golf_club 400 386
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 384
+drawitem small golf_club 400 384
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 382
+drawitem small golf_club 400 382
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 380
+drawitem small golf_club 400 380
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 378
+drawitem small golf_club 400 378
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 376
+drawitem small golf_club 400 376
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 374
+drawitem small golf_club 400 374
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 372
+drawitem small golf_club 400 372
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 370
+drawitem small golf_club 400 370
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 368
+drawitem small golf_club 400 368
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 366
+drawitem small golf_club 400 366
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 364
+drawitem small golf_club 400 364
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 362
+drawitem small golf_club 400 362
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 360
+drawitem small golf_club 400 360
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 358
+drawitem small golf_club 400 358
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 356
+drawitem small golf_club 400 356
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 354
+drawitem small golf_club 400 354
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 352
+drawitem small golf_club 400 352
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 350
+drawitem small golf_club 400 350
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 348
+drawitem small golf_club 400 348
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 346
+drawitem small golf_club 400 346
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 344
+drawitem small golf_club 400 344
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 342
+drawitem small golf_club 400 342
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 340
+drawitem small golf_club 400 340
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 338
+drawitem small golf_club 400 338
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 336
+drawitem small golf_club 400 336
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 334
+drawitem small golf_club 400 334
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 332
+drawitem small golf_club 400 332
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 330
+drawitem small golf_club 400 330
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 328
+drawitem small golf_club 400 328
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 326
+drawitem small golf_club 400 326
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 324
+drawitem small golf_club 400 324
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 322
+drawitem small golf_club 400 322
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 320
+drawitem small golf_club 400 320
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 318
+drawitem small golf_club 400 318
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 316
+drawitem small golf_club 400 316
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 314
+drawitem small golf_club 400 314
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 312
+drawitem small golf_club 400 312
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 310
+drawitem small golf_club 400 310
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 308
+drawitem small golf_club 400 308
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 306
+drawitem small golf_club 400 306
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 304
+drawitem small golf_club 400 304
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 302
+drawitem small golf_club 400 302
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 300
+drawitem small golf_club 400 300
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 298
+drawitem small golf_club 400 298
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 296
+drawitem small golf_club 400 296
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 294
+drawitem small golf_club 400 294
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 292
+drawitem small golf_club 400 292
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 290
+drawitem small golf_club 400 290
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 288
+drawitem small golf_club 400 288
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 286
+drawitem small golf_club 400 286
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 284
+drawitem small golf_club 400 284
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 282
+drawitem small golf_club 400 282
+drawentity silver 320 200
+#frame
+clear 156 76 9
+drawchar L 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar M 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar B 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 156 76 9
+drawitem small golf_club 0 0
+#frame
+clear 156 76 9
+drawitem small golf_club 15 10
+#frame
+clear 156 76 9
+drawitem small golf_club 30 20
+#frame
+clear 156 76 9
+drawitem small golf_club 45 30
+#frame
+clear 156 76 9
+drawitem small golf_club 60 40
+#frame
+clear 156 76 9
+drawitem small golf_club 75 50
+#frame
+clear 156 76 9
+drawitem small golf_club 90 60
+#frame
+clear 156 76 9
+drawitem small golf_club 105 70
+#frame
+clear 156 76 9
+drawitem small golf_club 120 80
+#frame
+clear 156 76 9
+drawitem small golf_club 135 90
+#frame
+clear 156 76 9
+drawitem small golf_club 150 100
+#frame
+clear 156 76 9
+drawitem small golf_club 165 110
+#frame
+clear 156 76 9
+drawitem small golf_club 180 120
+#frame
+clear 156 76 9
+drawitem small golf_club 195 130
+#frame
+clear 156 76 9
+drawitem small golf_club 210 140
+#frame
+clear 156 76 9
+drawitem small golf_club 225 150
+#frame
+clear 156 76 9
+drawitem small golf_club 240 160
+#frame
+clear 156 76 9
+drawitem small golf_club 255 170
+#frame
+clear 156 76 9
+drawitem small golf_club 270 180
+#frame
+clear 156 76 9
+drawitem small golf_club 285 190
+#frame
+clear 156 76 9
+drawitem small golf_club 300 200
+#frame
+clear 156 76 9
+drawitem small golf_club 315 210
+#frame
+clear 156 76 9
+drawitem small golf_club 330 220
+#frame
+clear 156 76 9
+drawitem small golf_club 345 230
+#frame
+clear 156 76 9
+drawitem small golf_club 360 240
+#frame
+clear 156 76 9
+drawitem small golf_club 375 250
+#frame
+clear 156 76 9
+drawitem small golf_club 390 260
+#frame
+clear 156 76 9
+drawitem small golf_club 405 270
+#frame
+clear 156 76 9
+drawitem small golf_club 420 280
+#frame
+clear 156 76 9
+drawitem small golf_club 435 290
+#frame
+clear 156 76 9
+drawitem small golf_club 450 300
+#frame
+clear 156 76 9
+drawitem small golf_club 465 310
+#frame
+clear 156 76 9
+drawitem small golf_club 480 320
+#frame
+clear 156 76 9
+drawitem small golf_club 495 330
+#frame
+clear 156 76 9
+drawitem small golf_club 510 340
+#frame
+clear 156 76 9
+drawitem small golf_club 525 350
+#frame
+clear 156 76 9
+drawitem small golf_club 540 360
+#frame
+clear 156 76 9
+drawitem small golf_club 555 370
+#frame
+clear 156 76 9
+drawitem small golf_club 570 380
+#frame
+clear 156 76 9
+drawitem small golf_club 585 390
+#frame
+clear 156 76 9
+drawentity player1 320 282
+drawitem small golf_club 400 282
+drawitem large sword 320 200
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 156 76 9
+drawentity player1 320 282
+drawitem small golf_club 400 282
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 280
+drawitem small golf_club 400 280
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 278
+drawitem small golf_club 400 278
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 276
+drawitem small golf_club 400 276
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 274
+drawitem small golf_club 400 274
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 272
+drawitem small golf_club 400 272
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 270
+drawitem small golf_club 400 270
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 268
+drawitem small golf_club 400 268
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 266
+drawitem small golf_club 400 266
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 264
+drawitem small golf_club 400 264
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 262
+drawitem small golf_club 400 262
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 260
+drawitem small golf_club 400 260
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 258
+drawitem small golf_club 400 258
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 256
+drawitem small golf_club 400 256
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 254
+drawitem small golf_club 400 254
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 252
+drawitem small golf_club 400 252
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 250
+drawitem small golf_club 400 250
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 248
+drawitem small golf_club 400 248
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 246
+drawitem small golf_club 400 246
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 244
+drawitem small golf_club 400 244
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 242
+drawitem small golf_club 400 242
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 240
+drawitem small golf_club 400 240
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 238
+drawitem small golf_club 400 238
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 236
+drawitem small golf_club 400 236
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 234
+drawitem small golf_club 400 234
+drawitem large sword 320 200
+#frame
+clear 156 76 9
+drawentity player1 320 232
+drawitem small golf_club 400 232
+#frame
+clear 156 76 9
+drawentity player1 320 230
+drawitem small golf_club 400 230
+#frame
+clear 156 76 9
+drawentity player1 320 228
+drawitem small golf_club 400 228
+#frame
+clear 156 76 9
+drawentity player1 320 226
+drawitem small golf_club 400 226
+#frame
+clear 156 76 9
+drawentity player1 320 224
+drawitem small golf_club 400 224
+#frame
+drawchar P 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar i 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar c 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar k 330 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar e 340 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar d 350 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar u 375 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar p 385 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar E 500 200 255 255 255
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 500
+drawrect 250 170 450 190 156 76 9
+drawrect 300 450 400 470 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 498
+drawrect 250 170 450 190 157 75 8
+drawrect 300 448 400 468 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 496
+drawrect 250 170 450 190 158 74 8
+drawrect 300 446 400 466 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 494
+drawrect 250 170 450 190 159 73 8
+drawrect 300 444 400 464 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 492
+drawrect 250 170 450 190 160 72 8
+drawrect 300 442 400 462 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 490
+drawrect 250 170 450 190 161 72 8
+drawrect 300 440 400 460 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 488
+drawrect 250 170 450 190 162 71 8
+drawrect 300 438 400 458 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 486
+drawrect 250 170 450 190 163 70 8
+drawrect 300 436 400 456 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 484
+drawrect 250 170 450 190 164 69 8
+drawrect 300 434 400 454 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 482
+drawrect 250 170 450 190 165 69 8
+drawrect 300 432 400 452 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 480
+drawrect 250 170 450 190 166 68 8
+drawrect 300 430 400 450 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 478
+drawrect 250 170 450 190 167 67 8
+drawrect 300 428 400 448 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 476
+drawrect 250 170 450 190 168 66 7
+drawrect 300 426 400 446 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 474
+drawrect 250 170 450 190 169 66 7
+drawrect 300 424 400 444 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 472
+drawrect 250 170 450 190 170 65 7
+drawrect 300 422 400 442 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 470
+drawrect 250 170 450 190 171 64 7
+drawrect 300 420 400 440 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 468
+drawrect 250 170 450 190 172 63 7
+drawrect 300 418 400 438 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 466
+drawrect 250 170 450 190 173 63 7
+drawrect 300 416 400 436 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 464
+drawrect 250 170 450 190 174 62 7
+drawrect 300 414 400 434 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 462
+drawrect 250 170 450 190 175 61 7
+drawrect 300 412 400 432 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 460
+drawrect 250 170 450 190 176 60 7
+drawrect 300 410 400 430 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 458
+drawrect 250 170 450 190 177 60 7
+drawrect 300 408 400 428 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 456
+drawrect 250 170 450 190 178 59 7
+drawrect 300 406 400 426 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 454
+drawrect 250 170 450 190 179 58 6
+drawrect 300 404 400 424 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 452
+drawrect 250 170 450 190 180 57 6
+drawrect 300 402 400 422 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 450
+drawrect 250 170 450 190 181 57 6
+drawrect 300 400 400 420 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 448
+drawrect 250 170 450 190 182 56 6
+drawrect 300 398 400 418 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 446
+drawrect 250 170 450 190 183 55 6
+drawrect 300 396 400 416 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 444
+drawrect 250 170 450 190 184 54 6
+drawrect 300 394 400 414 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 442
+drawrect 250 170 450 190 185 53 6
+drawrect 300 392 400 412 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 440
+drawrect 250 170 450 190 186 53 6
+drawrect 300 390 400 410 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 438
+drawrect 250 170 450 190 187 52 6
+drawrect 300 388 400 408 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 436
+drawrect 250 170 450 190 188 51 6
+drawrect 300 386 400 406 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 434
+drawrect 250 170 450 190 189 50 6
+drawrect 300 384 400 404 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 432
+drawrect 250 170 450 190 190 50 5
+drawrect 300 382 400 402 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 430
+drawrect 250 170 450 190 191 49 5
+drawrect 300 380 400 400 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 428
+drawrect 250 170 450 190 192 48 5
+drawrect 300 378 400 398 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 426
+drawrect 250 170 450 190 193 47 5
+drawrect 300 376 400 396 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 424
+drawrect 250 170 450 190 194 47 5
+drawrect 300 374 400 394 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 422
+drawrect 250 170 450 190 195 46 5
+drawrect 300 372 400 392 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 420
+drawrect 250 170 450 190 196 45 5
+drawrect 300 370 400 390 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 418
+drawrect 250 170 450 190 197 44 5
+drawrect 300 368 400 388 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 416
+drawrect 250 170 450 190 198 44 5
+drawrect 300 366 400 386 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 414
+drawrect 250 170 450 190 199 43 5
+drawrect 300 364 400 384 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 412
+drawrect 250 170 450 190 200 42 5
+drawrect 300 362 400 382 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 410
+drawrect 250 170 450 190 201 41 4
+drawrect 300 360 400 380 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 408
+drawrect 250 170 450 190 202 41 4
+drawrect 300 358 400 378 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 406
+drawrect 250 170 450 190 203 40 4
+drawrect 300 356 400 376 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 404
+drawrect 250 170 450 190 204 39 4
+drawrect 300 354 400 374 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 402
+drawrect 250 170 450 190 205 38 4
+drawrect 300 352 400 372 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 400
+drawrect 250 170 450 190 206 38 4
+drawrect 300 350 400 370 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 398
+drawrect 250 170 450 190 207 37 4
+drawrect 300 348 400 368 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 396
+drawrect 250 170 450 190 208 36 4
+drawrect 300 346 400 366 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 394
+drawrect 250 170 450 190 209 35 4
+drawrect 300 344 400 364 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 392
+drawrect 250 170 450 190 210 34 4
+drawrect 300 342 400 362 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 390
+drawrect 250 170 450 190 211 34 4
+drawrect 300 340 400 360 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 388
+drawrect 250 170 450 190 212 33 3
+drawrect 300 338 400 358 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 386
+drawrect 250 170 450 190 213 32 3
+drawrect 300 336 400 356 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 384
+drawrect 250 170 450 190 214 31 3
+drawrect 300 334 400 354 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 382
+drawrect 250 170 450 190 215 31 3
+drawrect 300 332 400 352 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 380
+drawrect 250 170 450 190 216 30 3
+drawrect 300 330 400 350 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 378
+drawrect 250 170 450 190 217 29 3
+drawrect 300 328 400 348 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 376
+drawrect 250 170 450 190 218 28 3
+drawrect 300 326 400 346 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 374
+drawrect 250 170 450 190 219 28 3
+drawrect 300 324 400 344 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 372
+drawrect 250 170 450 190 220 27 3
+drawrect 300 322 400 342 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 370
+drawrect 250 170 450 190 221 26 3
+drawrect 300 320 400 340 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 368
+drawrect 250 170 450 190 222 25 3
+drawrect 300 318 400 338 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 366
+drawrect 250 170 450 190 223 25 2
+drawrect 300 316 400 336 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 364
+drawrect 250 170 450 190 224 24 2
+drawrect 300 314 400 334 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 362
+drawrect 250 170 450 190 225 23 2
+drawrect 300 312 400 332 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 360
+drawrect 250 170 450 190 226 22 2
+drawrect 300 310 400 330 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 358
+drawrect 250 170 450 190 227 22 2
+drawrect 300 308 400 328 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 356
+drawrect 250 170 450 190 228 21 2
+drawrect 300 306 400 326 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 354
+drawrect 250 170 450 190 229 20 2
+drawrect 300 304 400 324 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 352
+drawrect 250 170 450 190 230 19 2
+drawrect 300 302 400 322 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 350
+drawrect 250 170 450 190 231 19 2
+drawrect 300 300 400 320 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 348
+drawrect 250 170 450 190 232 18 2
+drawrect 300 298 400 318 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 346
+drawrect 250 170 450 190 233 17 2
+drawrect 300 296 400 316 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 344
+drawrect 250 170 450 190 234 16 1
+drawrect 300 294 400 314 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 342
+drawrect 250 170 450 190 235 15 1
+drawrect 300 292 400 312 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 340
+drawrect 250 170 450 190 236 15 1
+drawrect 300 290 400 310 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 338
+drawrect 250 170 450 190 237 14 1
+drawrect 300 288 400 308 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 336
+drawrect 250 170 450 190 238 13 1
+drawrect 300 286 400 306 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 334
+drawrect 250 170 450 190 239 12 1
+drawrect 300 284 400 304 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 332
+drawrect 250 170 450 190 240 12 1
+drawrect 300 282 400 302 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 330
+drawrect 250 170 450 190 241 11 1
+drawrect 300 280 400 300 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 328
+drawrect 250 170 450 190 242 10 1
+drawrect 300 278 400 298 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 326
+drawrect 250 170 450 190 243 9 1
+drawrect 300 276 400 296 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 324
+drawrect 250 170 450 190 244 9 1
+drawrect 300 274 400 294 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 322
+drawrect 250 170 450 190 245 8 0
+drawrect 300 272 400 292 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 320
+drawrect 250 170 450 190 246 7 0
+drawrect 300 270 400 290 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 318
+drawrect 250 170 450 190 247 6 0
+drawrect 300 268 400 288 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 316
+drawrect 250 170 450 190 248 6 0
+drawrect 300 266 400 286 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 314
+drawrect 250 170 450 190 249 5 0
+drawrect 300 264 400 284 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 312
+drawrect 250 170 450 190 250 4 0
+drawrect 300 262 400 282 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 310
+drawrect 250 170 450 190 251 3 0
+drawrect 300 260 400 280 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 308
+drawrect 250 170 450 190 252 3 0
+drawrect 300 258 400 278 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 306
+drawrect 250 170 450 190 253 2 0
+drawrect 300 256 400 276 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 304
+drawrect 250 170 450 190 254 1 0
+drawrect 300 254 400 274 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 302
+drawrect 250 170 450 190 255 0 0
+drawrect 300 252 400 272 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 300
+drawrect 250 170 450 190 255 0 0
+drawrect 300 250 400 270 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 298
+drawrect 250 170 450 190 255 0 0
+drawrect 300 248 400 268 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 296
+drawrect 250 170 450 190 255 0 0
+drawrect 300 246 400 266 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 294
+drawrect 250 170 450 190 255 0 0
+drawrect 300 244 400 264 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 292
+drawrect 250 170 450 190 255 0 0
+drawrect 300 242 400 262 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 290
+drawrect 250 170 450 190 255 0 0
+drawrect 300 240 400 260 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 288
+drawrect 250 170 450 190 255 0 0
+drawrect 300 238 400 258 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 286
+drawrect 250 170 450 190 255 0 0
+drawrect 300 236 400 256 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 284
+drawrect 250 170 450 190 255 0 0
+drawrect 300 234 400 254 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 282
+drawrect 250 170 450 190 255 0 0
+drawrect 300 232 400 252 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 280
+drawrect 250 170 450 190 255 0 0
+drawrect 300 230 400 250 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 278
+drawrect 250 170 450 190 255 0 0
+drawrect 300 228 400 248 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 276
+drawrect 250 170 450 190 255 0 0
+drawrect 300 226 400 246 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 274
+drawrect 250 170 450 190 255 0 0
+drawrect 300 224 400 244 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 420 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 418 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 416 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 414 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 412 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 410 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 408 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 406 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 404 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 402 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 400 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 398 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 396 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 394 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawentity mountainslime 320 272
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawchar A 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar t 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar t 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar a 330 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar c 340 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar k 350 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar L 300 220 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar M 320 220 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar B 340 220 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 156 76 9
+drawitem large sword 0 0
+#frame
+clear 156 76 9
+drawitem large sword 15 10
+#frame
+clear 156 76 9
+drawitem large sword 30 20
+#frame
+clear 156 76 9
+drawitem large sword 45 30
+#frame
+clear 156 76 9
+drawitem large sword 60 40
+#frame
+clear 156 76 9
+drawitem large sword 75 50
+#frame
+clear 156 76 9
+drawitem large sword 90 60
+#frame
+clear 156 76 9
+drawitem large sword 105 70
+#frame
+clear 156 76 9
+drawitem large sword 120 80
+#frame
+clear 156 76 9
+drawitem large sword 135 90
+#frame
+clear 156 76 9
+drawitem large sword 150 100
+#frame
+clear 156 76 9
+drawitem large sword 165 110
+#frame
+clear 156 76 9
+drawitem large sword 180 120
+#frame
+clear 156 76 9
+drawitem large sword 195 130
+#frame
+clear 156 76 9
+drawitem large sword 210 140
+#frame
+clear 156 76 9
+drawitem large sword 225 150
+#frame
+clear 156 76 9
+drawitem large sword 240 160
+#frame
+clear 156 76 9
+drawitem large sword 255 170
+#frame
+clear 156 76 9
+drawitem large sword 270 180
+#frame
+clear 156 76 9
+drawitem large sword 285 190
+#frame
+clear 156 76 9
+drawitem large sword 300 200
+#frame
+clear 156 76 9
+drawitem large sword 315 210
+#frame
+clear 156 76 9
+drawitem large sword 330 220
+#frame
+clear 156 76 9
+drawitem large sword 345 230
+#frame
+clear 156 76 9
+drawitem large sword 360 240
+#frame
+clear 156 76 9
+drawitem large sword 375 250
+#frame
+clear 156 76 9
+drawitem large sword 390 260
+#frame
+clear 156 76 9
+drawitem large sword 405 270
+#frame
+clear 156 76 9
+drawitem large sword 420 280
+#frame
+clear 156 76 9
+drawitem large sword 435 290
+#frame
+clear 156 76 9
+drawitem large sword 450 300
+#frame
+clear 156 76 9
+drawitem large sword 465 310
+#frame
+clear 156 76 9
+drawitem large sword 480 320
+#frame
+clear 156 76 9
+drawitem large sword 495 330
+#frame
+clear 156 76 9
+drawitem large sword 510 340
+#frame
+clear 156 76 9
+drawitem large sword 525 350
+#frame
+clear 156 76 9
+drawitem large sword 540 360
+#frame
+clear 156 76 9
+drawitem large sword 555 370
+#frame
+clear 156 76 9
+drawitem large sword 570 380
+#frame
+clear 156 76 9
+drawitem large sword 585 390
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 242 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 229 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 217 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 205 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 193 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 181 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 169 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 157 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 145 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 133 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 121 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 108 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 96 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 84 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 72 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 60 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 48 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 36 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 24 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 12 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawentity mountainslime 320 272
+drawrect 300 222 400 242 0 0 0
+drawrect 300 222 400 0 0 255 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawitem large sword 400 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem large sword 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+drawitem small apple 400 222
+#frame
+drawchar H 305 100 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar e 315 100 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar a 325 100 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar l 335 100 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar L 310 120 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar M 320 120 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar B 330 120 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 392 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 393 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 394 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 395 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 396 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 397 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 398 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 399 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 400 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 401 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 402 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 403 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 404 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 405 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 406 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 407 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 408 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 409 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 410 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 411 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 412 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 413 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 414 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 415 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 416 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 417 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 418 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 419 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 420 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 421 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 422 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 423 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 424 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 425 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 426 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 427 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 428 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 429 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 430 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 431 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 432 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 433 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 434 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 435 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 436 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 437 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 438 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 439 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 440 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 441 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 442 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 443 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 444 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 445 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 446 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 447 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 448 190 255 0 0
+#frame
+clear 156 76 9
+drawentity player1 320 222
+drawrect 250 170 450 190 0 0 0
+drawrect 250 170 449 190 255 0 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 255 0 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 254 0 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 253 1 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 252 2 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 251 3 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 250 3 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 249 4 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 248 5 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 247 6 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 246 6 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 245 7 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 244 8 0
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 243 9 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 242 9 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 241 10 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 240 11 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 239 12 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 238 12 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 237 13 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 236 14 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 235 15 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 234 15 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 233 16 1
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 232 17 2
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 231 18 2
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 230 19 2
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 229 19 2
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 228 20 2
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 227 21 2
+#frame
+clear 156 76 9
+drawchar Q 500 200 255 255 255
+drawentity player1 320 222
+drawrect 250 170 450 190 226 22 2
+#frame                                                                       
+drawitem small golf_club 400 222
+drawentity player1 320 222
+drawchar T 320 120 255 255 255
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+drawchar t 335 120 255 255 255
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+drawchar o 345 120 255 255 255
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+drawchar T 370 120 255 255 255
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+drawchar h 380 120 255 255 255
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+drawchar r 390 120 255 255 255
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+drawchar o 400 120 255 255 255
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+drawchar w 410 120 255 255 255
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+drawitem small golf_club 400 222
+drawentity player1 320 222
+#frame
+clear 156 76 9
+drawitem small golf_club 500 100
+drawentity player1 320 222
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 156 76 9
+#frame
+clear 152 74 8
+#frame
+clear 149 72 8
+#frame
+clear 146 71 8
+#frame
+clear 143 69 8
+#frame
+clear 140 68 8
+#frame
+clear 137 66 7
+#frame
+clear 134 65 7
+#frame
+clear 131 63 7
+#frame
+clear 127 62 7
+#frame
+clear 124 60 7
+#frame
+clear 121 59 7
+#frame
+clear 118 57 6
+#frame
+clear 115 56 6
+#frame
+clear 112 54 6
+#frame
+clear 109 53 6
+#frame
+clear 106 51 6
+#frame
+clear 102 50 5
+#frame
+clear 99 48 5
+#frame
+clear 96 47 5
+#frame
+clear 93 45 5
+#frame
+clear 90 44 5
+#frame
+clear 87 42 5
+#frame
+clear 84 41 4
+#frame
+clear 81 39 4
+#frame
+clear 78 38 4
+#frame
+clear 74 36 4
+#frame
+clear 71 34 4
+#frame
+clear 68 33 3
+#frame
+clear 65 31 3
+#frame
+clear 62 30 3
+#frame
+clear 59 28 3
+#frame
+clear 56 27 3
+#frame
+clear 53 25 3
+#frame
+clear 49 24 2
+#frame
+clear 46 22 2
+#frame
+clear 43 21 2
+#frame
+clear 40 19 2
+#frame
+clear 37 18 2
+#frame
+clear 34 16 1
+#frame
+clear 31 15 1
+#frame
+clear 28 13 1
+#frame
+clear 24 12 1
+#frame
+clear 21 10 1
+#frame
+clear 18 9 1
+#frame
+clear 15 7 0
+#frame
+clear 12 6 0
+#frame
+clear 9 4 0
+#frame
+clear 6 3 0
+#frame
+clear 3 1 0
 #LOBBY
 #DUNGEON
 #SWAMP
