@@ -8777,6 +8777,3179 @@ clear 6 3 0
 #frame
 clear 3 1 0
 #LOBBY
+#frame                                                                      
+clear 0 0 0
+#frame
+clear 1 1 2
+#frame
+clear 2 2 4
+#frame
+clear 3 4 6
+#frame
+clear 4 5 8
+#frame
+clear 5 6 10
+#frame
+clear 6 8 12
+#frame
+clear 7 9 14
+#frame
+clear 8 10 16
+#frame
+clear 9 12 18
+#frame
+clear 10 13 20
+#frame
+clear 11 14 22
+#frame
+clear 12 16 24
+#frame
+clear 13 17 26
+#frame
+clear 14 19 28
+#frame
+clear 15 20 30
+#frame
+clear 16 21 32
+#frame
+clear 17 23 34
+#frame
+clear 18 24 36
+#frame
+clear 19 25 38
+#frame
+clear 20 27 40
+#frame
+clear 21 28 42
+#frame
+clear 22 29 44
+#frame
+clear 23 31 46
+#frame
+clear 24 32 48
+#frame
+clear 25 34 50
+#frame
+clear 26 35 52
+#frame
+clear 27 36 54
+#frame
+clear 28 38 56
+#frame
+clear 29 39 58
+#frame
+clear 30 40 60
+#frame
+clear 31 42 62
+#frame
+clear 32 43 64
+#frame
+clear 33 44 66
+#frame
+clear 34 46 68
+#frame
+clear 35 47 70
+#frame
+clear 36 48 72
+#frame
+clear 37 50 74
+#frame
+clear 38 51 76
+#frame
+clear 39 53 78
+#frame
+clear 40 54 80
+#frame
+clear 41 55 82
+#frame
+clear 42 57 84
+#frame
+clear 43 58 86
+#frame
+clear 44 59 88
+#frame
+clear 45 61 90
+#frame
+clear 46 62 92
+#frame
+clear 47 63 94
+#frame
+clear 48 65 96
+#frame
+clear 49 66 98
+#frame
+drawchar C 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar r 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar y 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar s 330 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar t 340 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar a 350 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar l 360 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 50 58 100
+#frame
+drawchar D 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar i 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar f 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar f 330 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar i 340 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar c 350 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar u 360 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar l 370 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar t 380 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar y 390 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 50 58 100
+#frame
+drawchar E 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar a 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar s 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar y 330 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 50 58 100
+#frame
+drawchar C 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar h 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar e 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar s 330 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar t 340 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar s 350 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 50 68 100
+drawentity bronze 320 200
+drawchar B 300 100 255 255 255
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+drawchar r 310 100 255 255 255
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+drawchar o 320 100 255 255 255
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+drawchar n 330 100 255 255 255
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+drawchar z 340 100 255 255 255
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+drawchar e 350 100 255 255 255
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+drawentity bronze 320 200
+#frame
+clear 50 68 100
+drawentity silver 320 200
+drawchar S 300 100 255 255 255
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+drawchar i 310 100 255 255 255
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+drawchar l 320 100 255 255 255
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+drawchar v 330 100 255 255 255
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+drawchar e 340 100 255 255 255
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+drawchar r 350 100 255 255 255
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+drawentity silver 320 200
+#frame
+clear 50 68 100
+drawchar I 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar t 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar e 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar m 330 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar s 340 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 50 68 100
+drawitem small apple 320 200
+drawchar A 300 100 255 255 255
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+drawchar p 310 100 255 255 255
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+drawchar p 320 100 255 255 255
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+drawchar l 330 100 255 255 255
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+drawchar e 340 100 255 255 255
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+drawitem small apple 320 200
+#frame
+clear 50 68 100
+drawitem small watermelon 320 200
+drawchar W 300 100 255 255 255
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+drawchar a 310 100 255 255 255
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+drawchar t 320 100 255 255 255
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+drawchar e 330 100 255 255 255
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+drawchar r 340 100 255 255 255
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+drawchar m 350 100 255 255 255
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+drawchar e 360 100 255 255 255
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+drawchar l 370 100 255 255 255
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+drawchar o 380 100 255 255 255
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+drawchar n 390 100 255 255 255
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+drawitem small watermelon 320 200
+#frame
+clear 50 68 100                                                             
+drawchar W 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar e 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar a 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar p 330 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar o 340 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar n 350 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar s 360 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 50 68 100
+drawitem medium basic_crossbow 320 200
+drawchar C 300 100 255 255 255
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+drawchar r 310 100 255 255 255
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+drawchar o 320 100 255 255 255
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+drawchar s 330 100 255 255 255
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+drawchar s 340 100 255 255 255
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+drawchar b 350 100 255 255 255
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+drawchar o 360 100 255 255 255
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+drawchar w 370 100 255 255 255
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+drawitem medium basic_crossbow 320 200
+#frame
+clear 50 68 100
+drawitem large crystal_raygun 320 200
+drawchar R 300 100 255 255 255
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+drawchar a 310 100 255 255 255
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+drawchar y 320 100 255 255 255
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+drawchar g 330 100 255 255 255
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+drawchar u 340 100 255 255 255
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+drawchar n 350 100 255 255 255
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame
+drawitem large crystal_raygun 320 200
+#frame                                                                      
+clear 50 68 100
+drawchar A 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar r 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar m 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar o 330 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar r 340 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 50 68 100
+drawitem small crystal_armor 320 200
+drawchar A 300 100 255 255 255
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+drawchar r 310 100 255 255 255
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+drawchar m 320 100 255 255 255
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+drawchar o 330 100 255 255 255
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+drawchar r 340 100 255 255 255
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+drawitem small crystal_armor 320 200
+#frame
+clear 50 68 100
+drawchar E 300 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar n 310 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar e 320 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar m 330 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar i 340 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar e 350 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+drawchar s 360 200 255 255 255
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+#frame
+clear 50 68 100
+drawentity crystalbat 320 200
+drawchar B 300 100 255 255 255
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+drawchar a 310 100 255 255 255
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+drawchar t 320 100 255 255 255
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame
+drawentity crystalbat 320 200
+#frame                                                                      
+clear 50 68 100
+drawentity crystalgolem 320 200
+drawchar G 300 100 255 255 255
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+drawchar o 310 100 255 255 255
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+drawchar l 320 100 255 255 255
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+drawchar e 330 100 255 255 255
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+drawchar m 340 100 255 255 255
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+drawentity crystalgolem 320 200
+#frame
+clear 50 68 100
+drawentity crystalknight 320 200
+drawchar K 300 100 255 255 255
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+drawchar n 310 100 255 255 255
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+drawchar i 320 100 255 255 255
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+drawchar g 330 100 255 255 255
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+drawchar h 340 100 255 255 255
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+drawchar t 350 100 255 255 255
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+drawentity crystalknight 320 200
+#frame
+clear 50 68 100
+drawentity crystalscorpion 320 200
+drawchar S 300 100 255 255 255
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+drawchar c 310 100 255 255 255
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+drawchar o 320 100 255 255 255
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+drawchar r 330 100 255 255 255
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+drawchar p 340 100 255 255 255
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+drawchar i 350 100 255 255 255
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+drawchar o 360 100 255 255 255
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+drawchar n 370 100 255 255 255
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+drawentity crystalscorpion 320 200
+#frame
+clear 50 68 100
+drawentity crystalslime 320 200
+drawchar S 300 100 255 255 255
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+drawchar l 310 100 255 255 255
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+drawchar i 320 100 255 255 255
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+drawchar m 330 100 255 255 255
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+drawchar e 340 100 255 255 255
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
+#frame
+drawentity crystalslime 320 200
 #DUNGEON
 #SWAMP
 #DESERT
